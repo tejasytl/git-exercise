@@ -47,6 +47,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Siddharth Kannan [icyflame](http://github.com/icyflame)
 * Srichandra [srichandra](https://github.com/srichandra)
 * Joseph Nii Lante Lamptey [niiwade](https://github.com/niiwade)
+* Tejas Lad [tejasytl](https://github.com/tejasytl)
 * Utkarsh Gupta [khalibartan](https://github.com/khalibartan)
 
 
